@@ -1,0 +1,321 @@
+{
+  "info": {
+    "salon": {
+      "store"   : "M Cute Lashes",
+      "slug"    : "M-cute-lashes",
+      "phone"   : "(832) 898-8688",
+      "email"   : "mcutelashes@gmail.com",
+      "address" : "10950 FM 1960, Ste. C, Houston, Texas 77070",
+      "state"   : "Texas 77070",
+      "ward"    : "Houston",
+      "time_1"  : "Mon - Thu: 10:00 AM - 06:30 PM",
+      "time_2"  : "Fri - Sat: 09:00 AM - 06:00 PM",
+      "time_3"  : "Sun: Closed"
+    },
+
+    "social": {
+        "facebook"  :   "https://www.facebook.com/mcutelashes",
+        "instagram" :   "https://www.instagram.com/m_cute_lashes",
+        "google"    :   "https://goo.gl/maps/nNhQovrtKrTuhGq67",
+        "booking"   :   "https://www.lldtek.com/salon/appt/VkZoZk1Ea3pPVGc9",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.5849489687903!2d-95.5869087238764!3d29.93384892380134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640d133a159f9f9%3A0xedd37bd09a797707!2sM%20Cute%20Lashes!5e0!3m2!1sen!2sus!4v1692604921766!5m2!1sen!2sus"
+	},
+    "color": {
+        "primary"               :   "#ff847d",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "img/",
+    "domain": "https://mcutelashes.com"
+  },
+  "categories": [
+    {
+      "name": "SINGLE LASHES EXTENSION ONE BY ONE",
+      "home": false,
+      "special": true,
+	  "src" : "M-cute-lashes-service-01.jpg"
+    },    
+    {
+      "name": "REFILL 2 WEEKS SINGLE LASHES",
+      "home": false,
+      "special": true,
+	  "src" : "M-cute-lashes-service-02.jpg"
+    },    
+    {
+      "name": "EYELASH EXTENSIONS",
+      "home": false,
+      "special": true,
+	  "src" : "M-cute-lashes-service-03.jpg"
+    },    
+    {
+      "name": "REFILL 2 WEEKS",      
+      "home": true,
+      "special": false,
+	  "src" : "M-cute-lashes-service-04.jpg"
+    },
+    {
+      "name": "WAX",      
+      "home": true,
+      "special": false,
+	  "src" : "M-cute-lashes-service-05.jpg"
+    }
+
+
+
+
+      
+  ],
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "M-cute-lashes-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "M-cute-lashes-gallery-02.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-03",
+      "url": "M-cute-lashes-gallery-03.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-04",
+      "url": "M-cute-lashes-gallery-04.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-05",
+      "url": "M-cute-lashes-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "M-cute-lashes-gallery-06.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-07",
+      "url": "M-cute-lashes-gallery-07.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-08",
+      "url": "M-cute-lashes-gallery-08.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-09",
+      "url": "M-cute-lashes-gallery-09.jpg",
+      "home": false
+    }
+    
+  ],
+  "services": [
+    
+    {
+      "category": "SINGLE LASHES EXTENSION ONE BY ONE",
+      "name": "Natural",
+      "url": "",
+      "home": true,
+      "price": 80,
+      "plus": false
+    },
+    {
+      "category": "SINGLE LASHES EXTENSION ONE BY ONE",
+      "name": "Hybrid",
+      "url": "",
+      "home": true,
+      "price": 100,
+      "plus": false
+    },
+    {
+      "category": "SINGLE LASHES EXTENSION ONE BY ONE",
+      "name": "Volume",
+      "url": "",
+      "home": true,
+      "price": 140,
+      "plus": false
+    },
+
+
+    {
+      "category": "REFILL 2 WEEKS SINGLE LASHES",
+      "name": "Natural",
+      "url": "",
+      "home": true,
+      "price": 60,
+      "plus": false
+    },
+    {
+      "category": "REFILL 2 WEEKS SINGLE LASHES",
+      "name": "Hybrid",
+      "url": "",
+      "home": true,
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "REFILL 2 WEEKS SINGLE LASHES",
+      "name": "Volume",
+      "url": "",
+      "home": true,
+      "price": 90,
+      "plus": false
+    },
+
+
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Basic",
+      "url": "",
+      "home": true,
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Hybrid",
+      "url": "",
+      "home": true,
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Volume",
+      "url": "",
+      "home": true,
+      "price": 80,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Wispy Natural",
+      "url": "",
+      "home": true,
+      "price": 90,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Wispy Hybrid",
+      "url": "",
+      "home": true,
+      "price": 95,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Wispy Volume",
+      "url": "",
+      "home": true,
+      "price": 100,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Long Size",
+      "url": "",
+      "home": true,
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Design",
+      "url": "",
+      "home": true,
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Color",
+      "url": "",
+      "home": true,
+      "price": 5,
+      "plus": false
+    },
+
+
+    {
+      "category": "REFILL 2 WEEKS",
+      "name": "Natural",
+      "url": "",
+      "home": true,
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "REFILL 2 WEEKS",
+      "name": "Hybrid, Volume",
+      "url": "",
+      "home": true,
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "REFILL 2 WEEKS",
+      "name": "Wispy Natural",
+      "url": "",
+      "home": true,
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "REFILL 2 WEEKS",
+      "name": "Wispy Hybrid, Volume",
+      "url": "",
+      "home": true,
+      "price": 55,
+      "plus": false
+    },
+    
+    
+    {
+      "category": "WAX",
+      "name": "Brow Lamination",
+      "url": "",
+      "home": true,
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "WAX",
+      "name": "Eyebrow",
+      "url": "",
+      "home": true,
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "WAX",
+      "name": "Lip",
+      "url": "",
+      "home": true,
+      "price": 6,
+      "plus": false
+    },
+    {
+      "category": "WAX",
+      "name": "Face",
+      "url": "",
+      "home": true,
+      "price": 40,
+      "plus": false
+    }
+
+  ]
+}
