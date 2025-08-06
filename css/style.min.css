@@ -1061,7 +1061,7 @@ a:hover {
 }
 
 .bg-color{
-    background-image: url(/img/home/background.jpg);
+    background-image: url(../img/home/background.jpg);
     /*background: #e1e1e1;*/
 }
 .title-sub{
